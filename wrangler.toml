@@ -1,0 +1,4 @@
+name = "my-block-editor"
+compatibility_date = "2025-06-01"
+# assets = { directory = "build" }
+pages_build_output_dir = "./build"
